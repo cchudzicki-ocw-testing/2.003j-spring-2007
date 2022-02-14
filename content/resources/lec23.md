@@ -5,7 +5,12 @@ description: This resource contains lecture notes on vibrations, two degrees of 
   and bode plots.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-003j-dynamics-and-control-i-spring-2007/9109d58c9d3b6944028be4e855451696_lec23.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec23.pdf
+type: OCWFile
 uid: 9109d58c-9d3b-6944-028b-e4e855451696
 ---

@@ -6,7 +6,12 @@ description: This resource contains lecture notes on Lagrangian dynamics, deriva
   horizontal plane, polar coordinates, and a falling stick.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-003j-dynamics-and-control-i-spring-2007/92a4d399be92cb47ad7b4849debbffb8_lec15.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec15.pdf
+type: OCWFile
 uid: 92a4d399-be92-cb47-ad7b-4849debbffb8
 ---
