@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lec22.pdf
-type: OCWFile
 uid: 7e9c7961-d221-391a-cb4f-afb28fe94d0a
 ---

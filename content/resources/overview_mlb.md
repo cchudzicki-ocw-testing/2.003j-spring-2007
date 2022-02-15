@@ -10,6 +10,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Document
 title: overview_mlb.pdf
-type: OCWFile
 uid: a333fc7a-fa8e-514c-e578-f201c65323d8
 ---

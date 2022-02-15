@@ -10,6 +10,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Document
 title: lab9_eigen.pdf
-type: OCWFile
 uid: c25da9fd-5bdf-b409-76db-f7fce19ef1f4
 ---

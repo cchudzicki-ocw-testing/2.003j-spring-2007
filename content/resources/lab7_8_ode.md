@@ -10,6 +10,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Document
 title: lab7_8_ode.pdf
-type: OCWFile
 uid: 52e98a5e-6a93-35b3-553c-29a36bd2a3e7
 ---

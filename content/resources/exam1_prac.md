@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: exam1_prac.pdf
-type: OCWFile
 uid: 1e773177-69f2-c512-7385-d663f563e88b
 ---

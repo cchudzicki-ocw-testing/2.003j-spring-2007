@@ -10,6 +10,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Document
 title: lab1_overview.pdf
-type: OCWFile
 uid: b3127176-fcef-c3c0-9e7c-5319040a1702
 ---

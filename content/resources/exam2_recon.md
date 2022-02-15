@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: exam2_recon.pdf
-type: OCWFile
 uid: 85c7ca2f-f378-4db8-437b-aa11da0acc3b
 ---

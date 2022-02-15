@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: finalexam_prac.pdf
-type: OCWFile
 uid: c6afa008-396f-1cc4-6ace-b2447c572e31
 ---

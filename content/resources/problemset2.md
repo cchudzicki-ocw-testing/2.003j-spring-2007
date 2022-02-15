@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: problemset2.pdf
-type: OCWFile
 uid: 9dfd499f-45a0-c956-60b3-cc3ff055731c
 ---

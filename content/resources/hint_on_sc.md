@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: hint_on_sc.pdf
-type: OCWFile
 uid: 44c3dd00-87c1-2bbf-db8e-6747726a878e
 ---
