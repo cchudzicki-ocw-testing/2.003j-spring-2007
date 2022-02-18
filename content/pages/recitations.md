@@ -27,7 +27,7 @@ Topics
 R1
 {{< tdclose >}}
 {{< tdopen >}}
-Kinematics ([PDF]({{< baseurl >}}/resources/rec01))
+Kinematics ({{< resource_link 48ea2a6c-bb77-008b-f3ad-3c30a8c3ef09 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +36,7 @@ Kinematics ([PDF]({{< baseurl >}}/resources/rec01))
 R2
 {{< tdclose >}}
 {{< tdopen >}}
-Systems of Particles: Linear and Angular Momentum, Solutions in MATLAB® ([PDF]({{< baseurl >}}/resources/rec02))
+Systems of Particles: Linear and Angular Momentum, Solutions in MATLAB® ({{< resource_link cd2754d9-511c-2cb7-10bd-c6a680e634bd "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
