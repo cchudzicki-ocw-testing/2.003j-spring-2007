@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains recitation notes prepared by Bryan Owens and Frederick
+  Jao. These notes are preliminary and should not be used to design satellites.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection

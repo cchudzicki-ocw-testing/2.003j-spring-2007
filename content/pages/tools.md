@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a schedule of topics, overviews, and readings for
+  the lab sessions of the course.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

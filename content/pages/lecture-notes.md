@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes the lecture notes, prepared by Bryan Owens and
+  Frederick Jao.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

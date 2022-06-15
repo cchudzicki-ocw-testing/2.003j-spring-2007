@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about required texts, recommended texts,
+  and a calendar of lecture topics with associated readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

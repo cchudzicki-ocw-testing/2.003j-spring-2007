@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the course description and information on goals,
+  prerequisites, related courses, required Texts, recommended texts, examinations,
+  recitations, MATLAB?, homework, grading, recommended citation, and a calendar of
+  lecture topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
