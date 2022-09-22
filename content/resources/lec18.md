@@ -8,6 +8,7 @@ file: /courses/2-003j-dynamics-and-control-i-spring-2007/e094f450edc3a5a869aef5d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

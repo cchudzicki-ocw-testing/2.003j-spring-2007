@@ -6,6 +6,7 @@ file: /courses/2-003j-dynamics-and-control-i-spring-2007/9dfd499f45a0c95660b3cc3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
